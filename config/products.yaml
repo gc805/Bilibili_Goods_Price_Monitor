@@ -19,13 +19,13 @@
 email:
   # 留空。
   # 等你以后准备好邮箱时，在这里填写接收提醒的邮箱地址。
-  to: "1419211066@qq.com"
+  to: "1930616746@qq.com"
 
   # SMTP 配置不要写密码到这个文件。
   # 实际使用时通过 GitHub Secrets 提供。
   smtp_host: "smtp.qq.com"
   smtp_port: 465
-  smtp_user: "3507624840@qq.com"
+  smtp_user: "1930616746@qq.com"
 
 products:
 
